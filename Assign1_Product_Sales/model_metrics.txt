@@ -1,0 +1,8 @@
+Multivariate Linear Regression Model
+Intercept: 2.5756
+Coefficients:
+  TV Budget ($): 0.0704
+  Radio Budget ($): 0.1975
+  Newspaper Budget ($): -0.0608
+Mean Squared Error: 2.4050
+R² Score: 0.6442

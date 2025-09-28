@@ -1,0 +1,11 @@
+Age,JobRole,MonthlyIncome,JobSatisfaction,YearsAtCompany,Attrition
+29,Sales Executive,4800,3,4,1
+35,Research Scientist,6000,4,8,0
+40,Laboratory Technician,3400,2,6,0
+28,Sales Executive,4300,3,3,1
+45,Manager,11000,4,15,0
+25,Research Scientist,3500,1,2,1
+50,Manager,12000,4,20,0
+30,Sales Executive,5000,2,5,0
+37,Laboratory Technician,3100,2,9,0
+26,Research Scientist,4500,3,2,1
